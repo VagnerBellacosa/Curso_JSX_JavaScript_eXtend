@@ -1,0 +1,1 @@
+	ReactDOM.render(<Message name="Roy" />,document.getElementById('main'));
